@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RowanMahmoud
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning VR and Machine Learning
 - 💞️ I’m looking to collaborate as full-stack developer
 
 
